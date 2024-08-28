@@ -1,9 +1,6 @@
-0 5
-0 20
-0 10
-2
-1
-2
-1
-2
-3
+5
+Rahim 21 80
+Tamim 8 75
+Musfiq 10 90
+Shakib 22 75
+Shanto 23 89
